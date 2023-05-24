@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201277954423",
+    "project_id": "eventi-9e670",
+    "storage_bucket": "eventi-9e670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201277954423:android:6fe65c1973a39406fde972",
+        "android_client_info": {
+          "package_name": "com.example.eventi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201277954423-rgk0j6vqu1ect8r7171p5htg8aa6aoio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3l69Gghy4fAGJgdEPFN5qWu020cYKFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201277954423-rgk0j6vqu1ect8r7171p5htg8aa6aoio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
